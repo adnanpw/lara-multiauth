@@ -1,0 +1,2 @@
+administrator@mail.com : password
+adnanpw@mail.com : adnanpw
